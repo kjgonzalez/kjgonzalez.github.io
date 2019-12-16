@@ -1,6 +1,8 @@
 # Kristian Gonzalez
 B.Sc Mechanical Engineering
+
 M.Sc Mechatronics Engineering, AI focus
+
 Nerd by Nature.
 
 # Intro
