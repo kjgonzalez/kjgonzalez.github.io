@@ -1,3 +1,1 @@
-A place to have a little blurb about myself.
-
-kjgonzalez.github.io
+A place to write a little blurb about myself.
